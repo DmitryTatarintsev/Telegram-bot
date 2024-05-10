@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github.com/DmitryTatarintsev/Telegram-bot/header.jpg" alt="альтернативный текст" title="заголовок изображения" width="100%" style="float: left; margin-right: 10px">
+    <img src="https://github.com/DmitryTatarintsev/Telegram-bot/blob/main/header.jpg" alt="альтернативный текст" title="заголовок изображения" width="100%" style="float: left; margin-right: 10px">
 </div>
 
 # Telegram bot for Coffee Recommendations
